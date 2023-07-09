@@ -1,6 +1,4 @@
-# fly.toml file generated for summer-thunder-4876 on 2023-02-24T16:29:14-08:00
-
-app = "summer-thunder-4876"
+app = "fitplot-logs"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
